@@ -8,3 +8,6 @@ public static void getFibonacciSeries(int count) {
             n2=n3;
         }
     }
+
+// For count =10
+//output: 0 1 1 2 3 5 8 13 21 34
