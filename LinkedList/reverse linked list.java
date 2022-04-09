@@ -48,6 +48,8 @@ class Solution1{
         if(head==null || head.next == null) {
             return head;
         }
+         // we need three pointers
+         // next,prev and curr
         Node next=null;
         Node prev= null;
         Node curr=head;
