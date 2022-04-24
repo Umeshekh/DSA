@@ -1,4 +1,7 @@
-   public static boolean isArmstrong(int num) {
+//Example 1 : 371 = (3*3*3)+(7*7*7)+(1*1*1)   
+
+
+public static boolean isArmstrong(int num) {
         int last,digits=0,temp,sum=0;
         temp=num;
         while (temp > 0) {
